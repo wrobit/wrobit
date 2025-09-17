@@ -7,7 +7,6 @@ Working at <a href="https://limur.pl/">Limur</a> as React Developer.<br />
 
 Moving forward with my new portfolio website and focusing on developing innovative mobile application.</p>
 
-* CV: <a href="https://read.cv/piotrwrobel">read.cv</a>
 * Links: <a href="https://bento.me/piotrwrobel">bento.me</a>
 * Contact: piotrwrobel.ajiiz@gmail.com
 * Likings *running, vinyls and photography.*
