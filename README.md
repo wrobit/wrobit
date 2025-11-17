@@ -25,7 +25,6 @@ Moving forward with my new portfolio website and focusing on developing innovati
 [![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](https://expo.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Vite](https://img.shields.io/static/v1?style=flat-square&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=)](https://vitejs.dev/)
-[![Remix](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff)](https://remix.run/)
 [![Redux Tollkit](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 
 #### Styling & UI Libraries
@@ -55,12 +54,9 @@ Moving forward with my new portfolio website and focusing on developing innovati
 [![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
-#### Repository & Configuration
-[![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
-[![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
-[![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![yarn](https://img.shields.io/static/v1?style=flat-square&message=yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=)](https://yarnpkg.com/)
-[![GitHub](https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/ajiiz)
+#### Learning
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 ##
 [![wakatime since Apr 8 2022](https://wakatime.com/badge/user/e75b442a-c4ec-45ca-84ab-29826e060e19.svg)](https://wakatime.com/@e75b442a-c4ec-45ca-84ab-29826e060e19)
