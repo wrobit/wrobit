@@ -15,8 +15,6 @@ Connect: [bento.me/piotrwrobel](https://bento.me/piotrwrobel)
 - **Cloud**: AWS, GitHub Actions, Cloudflare
 - **Learning**: Python, PyTorch
 
-> "If you're going to try, go all the way. Otherwise, don't even start." — Charles Bukowski
-
 ---
 
 [![wakatime since Apr 8 2022](https://wakatime.com/badge/user/e75b442a-c4ec-45ca-84ab-29826e060e19.svg)](https://wakatime.com/@e75b442a-c4ec-45ca-84ab-29826e060e19)
