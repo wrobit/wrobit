@@ -1,7 +1,7 @@
 # whoami
 
 Software developer based in Poland. CS graduate @ University of Silesia. Interested in web development, design, software engineering, and AI. Currently working @ [Limur](https://limur.pl/) as React Developer.
-Connect: [linktr.ee/wrobit](https://linktr.ee/wrobit)
+Connect with me [linktr.ee/wrobit](https://linktr.ee/wrobit).
 
 ## Tech-stack
 
