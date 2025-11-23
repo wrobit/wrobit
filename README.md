@@ -19,4 +19,4 @@ Connect: [bento.me/piotrwrobel](https://bento.me/piotrwrobel)
 
 ---
 
-[Wakatime profile](https://wakatime.com/@e75b442a-c4ec-45ca-84ab-29826e060e19)
+[![wakatime since Apr 8 2022](https://wakatime.com/badge/user/e75b442a-c4ec-45ca-84ab-29826e060e19.svg)](https://wakatime.com/@e75b442a-c4ec-45ca-84ab-29826e060e19)
