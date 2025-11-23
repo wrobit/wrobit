@@ -1,9 +1,7 @@
 # whoami
 
 Software developer based in Poland. CS graduate @ University of Silesia. Interested in web development, design, software engineering, and AI. Currently working @ [Limur](https://limur.pl/) as React Developer.
-
-Contact: [piotrwrobel.ajiiz@gmail.com](mailto:piotrwrobel.ajiiz@gmail.com)
-Connect: [bento.me/piotrwrobel](https://bento.me/piotrwrobel)
+Connect: [linktr.ee/wrobit](https://linktr.ee/wrobit)
 
 ## Tech-stack
 
