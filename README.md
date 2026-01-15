@@ -11,6 +11,7 @@ Connect with me [linktr.ee/wrobit](https://linktr.ee/wrobit).
 - **Testing**: Jest, RTL, Vitest, Cypress
 - **Design & No-code**: Figma, Framer
 - **Cloud**: AWS, GitHub Actions, Cloudflare
+- **AI**: Cursor, OpenCode
 - **Learning**: Python, PyTorch
 
 ---
