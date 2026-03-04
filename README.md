@@ -4,14 +4,14 @@ Software developer based in Poland. CS graduate at University of Silesia. Intere
 
 ## Tech-stack
 
-- **General**: TypeScript, JavaScript
-- **Front-end**: React, React Native, Expo, Next.js, Vite, Redux, styled-components, TailwindCSS, Storybook
+- **General**: TypeScript, Python
+- **Front-end**: React, React Native, Expo, Next.js, Vite
 - **Back-end**: Node.js, NestJS, PostgreSQL, Prisma
 - **Testing**: Jest, RTL, Vitest, Cypress
 - **Design & No-code**: Figma, Framer
 - **Cloud**: AWS, GitHub Actions, Cloudflare
 - **AI**: Cursor, OpenCode
-- **Learning**: Python, PyTorch
+- **Learning**: PyTorch, FastAPI
 
 ---
 
