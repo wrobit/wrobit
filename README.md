@@ -1,7 +1,6 @@
 # whoami
 
-Software developer based in Poland. CS graduate @ University of Silesia. Interested in web development, design, software engineering, and AI. Currently working @ [Limur](https://limur.pl/) as React Developer.
-Visit my [portfolio](https://www.piotrwrobel.eu/).
+Software developer based in Poland. CS graduate at University of Silesia. Interested in web development, design and software engineering. Currently working at [Limur](https://limur.pl/) as React Developer.
 
 ## Tech-stack
 
