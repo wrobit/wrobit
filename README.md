@@ -1,6 +1,6 @@
 # whoami
 
-Software developer based in Poland. CS graduate at University of Silesia. Interested in web development, design and software engineering. Currently working at [Limur](https://limur.pl/) as React Developer.
+Software developer based in Poland. CS graduate at University of Silesia. Interested in web development, design and software engineering. Currently working at [Limur](https://limur.pl/) as Software Developer.
 
 ## Tech-stack
 
@@ -9,7 +9,7 @@ Software developer based in Poland. CS graduate at University of Silesia. Intere
 - **Backend**: Node.js, NestJS, FastAPI
 - **Testing**: RTL, Vitest, Cypress
 - **Cloud**: AWS, Cloudflare, Docker, Sentry, GitHub Actions
-- **AI**: Cursor, OpenCode, Claude
+- **AI**: Linear, Codex, OpenCode
 - **Learning**: PyTorch, FastAPI
 
 ---
