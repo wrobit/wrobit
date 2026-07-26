@@ -9,7 +9,7 @@ Software developer based in Poland. CS graduate at University of Silesia. Intere
 - **Backend**: Node.js, NestJS, FastAPI
 - **Testing**: RTL, Vitest, Cypress
 - **Cloud**: AWS, Cloudflare, Docker, Sentry, GitHub Actions
-- **AI**: Linear, Codex, Cursor, OpenCode
+- **AI**: Linear, Codex, Pi Coding Agent (optionally OpenCode) 
 - **Learning**: PyTorch, FastAPI
 
 ---
