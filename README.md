@@ -1,18 +1,18 @@
 ```python
- # ~/whoami.py
+# ~/whoami.py
 
- wrobit = {
-   "role": "software engineer",
-   "company": "limur",
-   "location": "katowice, pl",
-   "agents": { "pi", "codex", "linear" },
-   "languages": { "typescript", "python" },
-   "stack": { "react", "native/expo", "node", "fastapi" },
-   "learning": "pytorch",
-   "site": "https://www.piotrwrobel.eu",
-   "x": "https://x.com/wrobit_",
- }
- ```
+wrobit = {
+  "role": "software engineer",
+  "company": "limur",
+  "location": "katowice, pl",
+  "agents": { "pi", "codex", "linear" },
+  "languages": { "typescript", "python" },
+  "stack": { "react", "native/expo", "node", "fastapi" },
+  "learning": "pytorch",
+  "site": "https://www.piotrwrobel.eu",
+  "x": "https://x.com/wrobit_",
+}
+```
 
 ---
 
