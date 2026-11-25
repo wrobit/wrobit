@@ -1,16 +1,18 @@
-# whoami
+```python
+ # ~/whoami.py
 
-Software developer based in Poland. CS graduate at University of Silesia. Interested in web development, design and software engineering. Currently working at [Limur](https://limur.pl/) as Software Developer.
-
-## Tech-stack
-
-- **General**: TypeScript, Python
-- **Frontend**: React, React Native, Expo, Next.js, Vite, Framer, Figma
-- **Backend**: Node.js, NestJS, FastAPI
-- **Testing**: RTL, Vitest, Cypress
-- **Cloud**: AWS, Cloudflare, Docker, Sentry, GitHub Actions
-- **AI**: Linear, Codex, Pi Coding Agent (optionally OpenCode) 
-- **Learning**: PyTorch, FastAPI
+ wrobit = {
+   "role": "software engineer",
+   "company": "limur",
+   "location": "katowice, pl",
+   "agents": { "pi", "codex", "linear" },
+   "languages": { "typescript", "python" },
+   "stack": { "react", "native/expo", "node", "fastapi" },
+   "learning": "pytorch",
+   "site": "https://www.piotrwrobel.eu",
+   "x": "https://x.com/wrobit_",
+ }
+ ```
 
 ---
 
